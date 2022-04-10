@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Mel! 👋
 
-<!--
-**MelanieL/MelanieL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: MountainMel](https://img.shields.io/twitter/follow/MountainMel?style=social)](https://twitter.com/MountainMel)
+[![Linkedin: melanie-phillips-46397763](https://img.shields.io/badge/-Melanie%20Phillips-blue?logo=linkedin)](https://www.linkedin.com/in/melanie-phillips-46397763/)
+[![Dev.to: melanie-phillips-46397763](https://img.shields.io/badge/-Melanie%20Phillips-black?logo=dev.to)](https://dev.to/melaniephillips)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer at McMaster University in Hamilton, Ontario, Canada.
+
+```javascript
+const mel = {
+    code: [JavaScript, HTML, CSS, PHP],
+    tools: [React.js, Node.js, Express, Jenkins, APIs, WordPress, Git],
+    editors: ['VS Code', 'Vim'],
+    softSkills: ['project management', 'technical writing'],
+    coffeeDrinker: true,
+    hobbies: ['reading', 'crafting with epoxy resin', 'playing outside'],
+    spacesOrTabs: 'Tabs'
+}
+```
