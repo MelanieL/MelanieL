@@ -16,8 +16,6 @@ const mel = {
     softSkills: ['project management', 'technical writing'],
     coffeeDrinker: true,
     hobbies: ['reading', 'crafting with epoxy resin', 'playing outside'],
-    spacesOrTabs: 'Tabs'
+    spacesOrTabs: 'tabs'
 }
 ```
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MelanieL&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
