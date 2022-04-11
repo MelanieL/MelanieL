@@ -10,8 +10,8 @@ I'm a web developer at McMaster University in Hamilton, Ontario, Canada.
 
 ```javascript
 const mel = {
-    code: [JavaScript, HTML, CSS, PHP],
-    tools: [React.js, Node.js, Express, Jenkins, APIs, WordPress, Git],
+    code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
+    tools: ['React.js', 'Node.js', 'Express', 'Jenkins', 'APIs', 'WordPress', 'Git'],
     editors: ['VS Code', 'Vim'],
     softSkills: ['project management', 'technical writing'],
     coffeeDrinker: true,
